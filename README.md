@@ -7,3 +7,5 @@ It features a fixed point number class, which is extended in every exercise. The
 by implementing a simple calculation which returns wether a given point is inside of a given triangle.
 
 © Copyright 2022 [mhahnFr](https://www.github.com/mhahnFr)
+
+[42 school]: https://www.42heibronn.de/learncoderepeat
