@@ -23,7 +23,7 @@ int Fixed::getRawBits() const {
     return bits;
 }
 
-void Fixed::setBits(const int bits) {
+void Fixed::setRawBits(const int bits) {
     Fixed::bits = bits;
 }
 
