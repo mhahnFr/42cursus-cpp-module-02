@@ -12,6 +12,11 @@ public:
     Fixed(const Fixed & other);
     ~Fixed();
 
+    int getRawBits() const;
+    void setBits(int bits);
+
+    Fixed & operator=(const Fixed &other);
+
 private:
     int bits;
     static const int fraction = 8;
