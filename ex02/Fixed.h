@@ -5,6 +5,7 @@
 #ifndef EX00_FIXED_H
 #define EX00_FIXED_H
 
+#include <iostream>
 
 class Fixed {
 public:
